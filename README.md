@@ -13,3 +13,7 @@
 -->  
 ## Github Stats
 ![Bluerain's github stats](https://github-readme-stats.vercel.app/api?username=gasd238)
+
+## Contact
+discord : Bluerain#5446  
+E-mail : gasd238@naver.com
