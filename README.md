@@ -6,7 +6,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/1000/1*qp3u7D_FkGlFeBPUx7hcLg.png"></code>
+<code><img height="20" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
 <!--
 **gasd238/gasd238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->  
