@@ -3,7 +3,7 @@
 현재 테르텐에서 현장실습을 하고 있으며 인공지능팀에서 근무중입니다.
 
 ## Career
-2020 / 10 / 19 ~  [테르텐()](http://www.teruten.com/kr/)
+2020 / 10 / 19 ~  [테르텐(현장실습)](http://www.teruten.com/kr/)
 
 ## Languages and Skills
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
