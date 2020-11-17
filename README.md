@@ -12,7 +12,7 @@
 <code><img height="20" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
 
 ## Github Stats
-![Bluerain's github stats](https://github-readme-stats.vercel.app/api?username=gasd238)
+![Bluerain's github stats](https://github-readme-stats.vercel.app/api?username=gasd238&show_icons=true&count_private=true&theme=tokyonight)
 
 ## Contact
 discord : Bluerain#5446  
