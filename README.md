@@ -4,7 +4,7 @@
 
 ## Career
 ~ 2021 / 1 / 13 광주소프트웨어마이스터고 재학중  
-2020 / 10 / 19 ~ 2020 / 12 /31 [테르텐(현장실습)](http://www.teruten.com/kr/)
+2020 / 10 / 19 ~ 2020 / 12 /31 [테르텐(현장실습)](http://www.teruten.com/kr/)  
 2020 / 1 /1 ~ [테르텐](http://www.teruten.com/kr/)
 
 ## Languages and Skills
