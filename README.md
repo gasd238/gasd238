@@ -1,11 +1,12 @@
 ### 개발자 박재홍입니다.
 
-현재 테르텐에서 인공지능팀에서 근무중입니다.
+현재 테르텐 인공지능팀에서 근무중입니다.
 
 ## Career
 ~ 2021 / 1 / 13 광주소프트웨어마이스터고 졸업  
 2020 / 10 / 19 ~ 2020 / 12 /31 [테르텐(현장실습)](http://www.teruten.com/kr/)  
-2020 / 1 /1 ~ [테르텐](http://www.teruten.com/kr/)
+2021 / 1 / 1 ~ [테르텐](http://www.teruten.com/kr/)
+2021/ 1 /  18 ~ 산업기능요원
 
 ## Languages and Skills
 <code><img height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
@@ -17,7 +18,7 @@
 
 ## Contact
 discord : Bluerain#5446  
-E-mail : gasd238@naver.com
+E-mail : pjh021018@gmail.com
 <!--
 **gasd238/gasd238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->  
