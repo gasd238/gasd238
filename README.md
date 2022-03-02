@@ -5,7 +5,7 @@
 ## Career
 ~ 2021 / 1 / 13 광주소프트웨어마이스터고 졸업  
 2020 / 10 / 19 ~ 2020 / 12 /31 [테르텐(현장실습)](http://www.teruten.com/kr/)  
-2021 / 1 / 1 ~ [테르텐](http://www.teruten.com/kr/)
+2021 / 1 / 1 ~ [테르텐](http://www.teruten.com/kr/)  
 2021/ 1 /  18 ~ 산업기능요원
 
 ## Languages and Skills
