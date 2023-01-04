@@ -18,7 +18,6 @@
 ![Bluerain's github stats](https://github-readme-stats.vercel.app/api?username=gasd238&show_icons=true&count_private=true&theme=tokyonight)
 
 ## Contact
-discord : Bluerain#5446  
 E-mail : pjh021018@gmail.com
 <!--
 **gasd238/gasd238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
